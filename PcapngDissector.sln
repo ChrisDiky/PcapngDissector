@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PcapngDissector", "PcapngDissector\PcapngDissector.csproj", "{51724CF5-ACF9-4D6F-8549-F53CD7813447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51724CF5-ACF9-4D6F-8549-F53CD7813447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51724CF5-ACF9-4D6F-8549-F53CD7813447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51724CF5-ACF9-4D6F-8549-F53CD7813447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51724CF5-ACF9-4D6F-8549-F53CD7813447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B8D711C-43B2-4FBB-9B20-426DD5627941}
+	EndGlobalSection
+EndGlobal
