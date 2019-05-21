@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/PcapngDissector/v15
+/packages
+/PcapngDissector/obj/Debug
